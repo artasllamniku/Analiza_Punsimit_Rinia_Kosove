@@ -27,6 +27,6 @@ Vizualizime me karta matëse, grafik kolonash, grafikë gjeografike (map) dhe sl
  Të dhënat:
 Të dhëna të simulura mbi bazë komunash
 
-Fokus në grupmoshën e të rinjve (15–29 vjeç)
+Fokus në grupmoshën e të rinjve (15–24 vjeç)
 
 Të ndara sipas gjinisë dhe statusit të punësimit
